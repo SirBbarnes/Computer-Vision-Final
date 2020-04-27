@@ -1,0 +1,3 @@
+/Users/sergio/CLionProjects/OpenCV_Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sergio/CLionProjects/OpenCV_Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergio/CLionProjects/OpenCV_Demo/cmake-build-debug/CMakeFiles/OpenCV_Demo.dir
